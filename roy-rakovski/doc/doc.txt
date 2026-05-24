@@ -1,1 +1,1 @@
-
+This presentation deals with the basics of machine learning and AI and how the use of these two ideas is becoming part of our lives in recent days. In addition to that, we will talk about how AI can sometimes be used discriminatively and why this takes place, along with its ramifications. We will deal with a number of situations where AI has been used in a discriminating way, but the point is that AI needs to be designed fairly and accurately.
